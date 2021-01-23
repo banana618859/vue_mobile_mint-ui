@@ -3,7 +3,7 @@
  * @Author: yizheng.yuan
  * @Date: 2021-01-20 20:21:41
  * @LastEditors: yizheng.yuan
- * @LastEditTime: 2021-01-20 21:04:07
+ * @LastEditTime: 2021-01-23 21:46:19
 -->
 <template>
   <div class="home" style="display: flex; flex-direction: column;height: 100vh;">
@@ -15,7 +15,7 @@
       <mt-button icon="more" slot="right"></mt-button>
     </mt-header>
 
-    <div style="border: 1px solid red; flex: 1; 
+    <div style="border: 1px solid #ddd; flex: 1; 
           margin-bottom:30px; overflow: auto; margin-top: 5px;">
       <router-view></router-view>
     </div>

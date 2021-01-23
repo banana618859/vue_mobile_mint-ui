@@ -3,3 +3,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.h25{
+  height: 25px;
+  line-height: 25px;
+}
+
+.h28{
+  height: 28px;
+  line-height: 28px;
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
